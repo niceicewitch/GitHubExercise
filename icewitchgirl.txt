@@ -1,0 +1,10 @@
+<html>
+	<head>
+	<title> Ice Witches Page!</title>
+	</head>
+	<body>
+	<h1> Welcome to the Page for Witches at
+	<a href="https://www.usf.edu">USF</a> </h1>
+	<p> Please do not come back here no time soon girl please</p>
+	</body>
+</html>
